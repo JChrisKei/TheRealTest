@@ -1,0 +1,3 @@
+#define SECRET_SSID "PLDTHOMEFIBR6yJ8z"
+#define SECRET_OPTIONAL_PASS "RASPBERRYsunripened2.4$"
+#define SECRET_DEVICE_KEY "xHHfimBeqDYficxHdYRQL1yu@"
